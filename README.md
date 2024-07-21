@@ -1,3 +1,3 @@
 # PersonalWebiste
 
-Link to video: https://www.youtube.com/watch?v=ldwlOzRvYOU&t=7177s
+This is my tech portfolio website.
