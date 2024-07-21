@@ -41,7 +41,15 @@
       width: 275px;
       height: 275px;
       margin: 0 auto 2rem;
-    }
+      overflow: hidden;  /* Ensure the image doesn't spill out */
+  }
+
+  .profile-pic {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 50%;  /* Maintain circular shape */
+  }
     .about-containers {
       margin-top: 0;
     }
@@ -96,6 +104,22 @@
       height: 46vw;
       justify-content: center;
     }
+
+    img.profile-pic {
+      width: auto;
+      height: auto;
+      max-width: 300px;
+      max-height: 300px;
+      object-fit: cover;
+      border-radius: 50%;
+    }
+    
+    img.about-pic {
+      width: auto;
+      height: auto;
+      object-fit: cover;
+    }
+
     .section__text__p2 {
       font-size: 1.25rem;
     }
@@ -103,6 +127,11 @@
       font-size: 2rem;
     }
     .text-container {
-      text-align: justify;
+      text-align: left;
+      font-size: 1.3rem;
+    }
+
+    .details-container {
+      font-size: 1.1rem;
     }
   }
