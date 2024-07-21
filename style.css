@@ -232,6 +232,7 @@ section {
     padding: 1rem;
     width: 8rem;
     border-radius: 2rem;
+    font-size: 1.0rem;
 }
 
 .btn-color-1, .btn-color-2 {
@@ -303,6 +304,7 @@ section {
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
+    font-size: 1.3rem;
   }
   
   .section-container {
@@ -355,6 +357,10 @@ section {
     cursor: default;
   }
 
+  .text-container {
+    font-size: 1.2rem;
+  }
+
   /* PROJECTS SECTION */
 
 #projects {
@@ -380,6 +386,7 @@ section {
   .project-btn {
     color: black;
     border-color: rgb(163, 163, 163);
+    font-size: 1.1rem;
   }
   
   /* CONTACT */

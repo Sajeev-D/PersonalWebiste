@@ -45,6 +45,11 @@
     .about-containers {
       margin-top: 0;
     }
+    .about-pic {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
   
   @media screen and (max-width: 600px) {
