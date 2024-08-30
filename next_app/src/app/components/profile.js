@@ -25,7 +25,7 @@ export default function Profile() {
         <>
         <section id="profile">
             <div className="section__pic-container">
-                <img src="/IMG_8862.jpg" alt="Sajeev Debnath profile picture" className="profile-pic"/>
+                <img src="./Assets/IMG_8862.jpg" alt="Sajeev Debnath profile picture" className="profile-pic"/>
             </div>
             <div className="section__text">
                 <p className="section__text__p1">Hello I'm</p>

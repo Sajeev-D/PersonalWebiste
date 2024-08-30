@@ -17,7 +17,7 @@ export default function Experience() {
                     <div class="article-container">
                     <article>
                         <img
-                        src="./assets/checkmark.png"
+                        src="./Assets/checkmark.png"
                         alt="Experience icon"
                         class="icon"
                         />
@@ -28,7 +28,7 @@ export default function Experience() {
                     </article>
                     <article>
                         <img
-                        src="./assets/checkmark.png"
+                        src="./Assets/checkmark.png"
                         alt="Experience icon"
                         class="icon"
                         />
@@ -39,7 +39,7 @@ export default function Experience() {
                     </article>
                     <article>
                         <img
-                        src="./assets/checkmark.png"
+                        src="./Assets/checkmark.png"
                         alt="Experience icon"
                         class="icon"
                         />
@@ -51,7 +51,7 @@ export default function Experience() {
                     
                     <article>
                         <img
-                        src="./assets/checkmark.png"
+                        src="./Assets/checkmark.png"
                         alt="Experience icon"
                         class="icon"
                         />
@@ -62,7 +62,7 @@ export default function Experience() {
                     </article>
                     <article>
                         <img
-                            src="./assets/checkmark.png"
+                            src="./Assets/checkmark.png"
                             alt="Experience icon"
                             class="icon"
                         />
@@ -78,7 +78,7 @@ export default function Experience() {
                     <div class="article-container">
                     <article>
                         <img
-                            src="./assets/checkmark.png"
+                            src="./Assets/checkmark.png"
                             alt="Experience icon"
                             class="icon"
                         />
@@ -89,7 +89,7 @@ export default function Experience() {
                         </article>
                         <article>
                         <img
-                            src="./assets/checkmark.png"
+                            src="./Assets/checkmark.png"
                             alt="Experience icon"
                             class="icon"
                         />
@@ -105,7 +105,7 @@ export default function Experience() {
                     <div class="article-container">
                         <article>
                             <img
-                            src="./assets/checkmark.png"
+                            src="./Assets/checkmark.png"
                             alt="Experience icon"
                             class="icon"
                             />
@@ -120,7 +120,7 @@ export default function Experience() {
                 </div>
             </div>
             <img
-                src="./assets/arrow.png"
+                src="./Assets/arrow.png"
                 alt="Arrow icon"
                 class="icon arrow"
                 onclick="location.href='./#projects'"

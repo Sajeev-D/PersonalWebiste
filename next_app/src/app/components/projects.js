@@ -18,7 +18,7 @@ export default function Projects() {
                         <div className="details-container color-container">
                             <div className="article-container">
                                 <img
-                                    src="./assets/startup.png"
+                                    src="./Assets/startup.png"
                                     alt="NomNom"
                                     className="project-img"
                                 />
@@ -42,7 +42,7 @@ export default function Projects() {
                         <div className="details-container color-container">
                             <div className="article-container">
                                 <img
-                                    src="./assets/NomNom.png"
+                                    src="./Assets/NomNom.png"
                                     alt="NomNom"
                                     className="project-img"
                                 />
@@ -66,7 +66,7 @@ export default function Projects() {
                         <div className="details-container color-container">
                             <div className="article-container">
                                 <img
-                                    src="./assets/graphify.png"
+                                    src="./Assets/graphify.png"
                                     alt="Graphify"
                                     className="project-img"
                                 />
@@ -90,7 +90,7 @@ export default function Projects() {
                         <div className="details-container color-container">
                             <div className="article-container">
                                 <img
-                                    src="./assets/rover.jpg"
+                                    src="./Assets/rover.jpg"
                                     alt="Rover"
                                     className="project-img"
                                 />
@@ -108,7 +108,7 @@ export default function Projects() {
                         <div className="details-container color-container">
                             <div className="article-container">
                                 <img
-                                    src="./assets/othello.png"
+                                    src="./Assets/othello.png"
                                     alt="Othello"
                                     className="project-img"
                                 />
@@ -132,7 +132,7 @@ export default function Projects() {
                     </div>
                 </div>
                 <img
-                    src="./assets/arrow.png"
+                    src="./Assets/arrow.png"
                     alt="Arrow icon"
                     className="icon arrow"
                     onClick={() => document.querySelector('#contact').scrollIntoView({ behavior: 'smooth' })}

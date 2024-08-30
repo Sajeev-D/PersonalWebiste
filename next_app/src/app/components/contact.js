@@ -12,7 +12,7 @@ export default function Contact() {
                 <div class="contact-info-upper-container">
                 <div class="contact-info-container">
                     <img
-                    src="./assets/email.png"
+                    src="./Assets/email.png"
                     alt="Email icon"
                     class="icon contact-icon email-icon"
                     />
@@ -20,7 +20,7 @@ export default function Contact() {
                 </div>
                 <div class="contact-info-container">
                     <img
-                    src="./assets/linkedin.png"
+                    src="./Assets/linkedin.png"
                     alt="LinkedIn icon"
                     class="icon contact-icon"
                     />

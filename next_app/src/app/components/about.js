@@ -14,7 +14,7 @@ export default function About() {
             <div class="section-container">
                 <div class="section__pic-container">
                     <img
-                    src="./assets/about.jpg"
+                    src="./Assets/about.jpg"
                     alt="Profile picture"
                     class="about-pic"
                     />
@@ -23,7 +23,7 @@ export default function About() {
                     <div class="about-containers">
                         <div class="details-container">
                             <img
-                            src="./assets/experience.png"
+                            src="./Assets/experience.png"
                             alt="Experience icon"
                             class="icon"
                             />
@@ -32,7 +32,7 @@ export default function About() {
                         </div>
                         <div class="details-container">
                             <img
-                            src="./assets/education.png"
+                            src="./Assets/education.png"
                             alt="Education icon"
                             class="icon"
                             />
@@ -54,7 +54,7 @@ export default function About() {
                 </div>
             </div>
             <img
-            src="./assets/arrow.png"
+            src="./Assets/arrow.png"
             alt="Arrow icon"
             class="icon arrow"
             onclick="location.href='./#experience'"
