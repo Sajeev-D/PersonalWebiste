@@ -5,7 +5,7 @@ import '../mediaqueries.css';
 export default function Profile() {
 
     const handleResumeDownload = () => {
-        window.open('/Assets/Resume 4.pdf'); // Assuming 'Assets' is in the 'public' folder
+        window.open('/Assets/Resume (3).pdf'); // Assuming 'Assets' is in the 'public' folder
     };
 
     const handleContactClick = () => {
